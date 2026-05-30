@@ -1,0 +1,10 @@
+# Approche "deny-all / allow-list" : on n'ajoute au repo
+# que les fichiers nécessaires au formulaire et à son déploiement.
+*
+
+# Fichiers à inclure
+!.gitignore
+!README.md
+!formulaire_projet_rey_dedy.html
+!_redirects
+!netlify.toml
