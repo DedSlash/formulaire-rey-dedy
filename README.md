@@ -1,5 +1,7 @@
 # Formulaire de projet — Rey Dedy Pangou
 
+**En ligne : https://formulaire2contact.netlify.app/**
+
 Formulaire de prise de brief pour mes prestations de développement web fullstack.
 
 Page statique (HTML + CSS + JS, sans dépendance externe) qui collecte les
